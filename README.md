@@ -1,2 +1,2 @@
 # Basic-SQL-Exercises
-Exercise 1: SQL Fundamentals
+Exercise on SQL Fundamentals (SELECT & Filtering Statements)
